@@ -1,4 +1,4 @@
-Proyecto final del curso** "Fullstack con Pyton"** ofrecido por Codo a Codo en el primer semestre de 2024. 
+Proyecto final del curso**Fullstack con Pyton** ofrecido por Codo a Codo en el primer semestre de 2024. 
 
 Docente a cargo:Christian Toledo https://github.com/ChTole
 
