@@ -4,4 +4,6 @@ Docente a cargo: **Christian Toledo** https://github.com/ChTole
 
 Integrantes del equipo: *Juan Pablo Leoz, Catalina Borda, Alicia Dri y Alicia López.*
 
+Este proyecto es susceptible de mejoras en el Frontend como proyecto personal
+
 
